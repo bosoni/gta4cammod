@@ -1,0 +1,15 @@
+0 -5 1.5 -0.1 0 0 95
+
+/*
+above parameters:
+
+cam_xpos cam_zpos cam_height  x_rotation y_rotation z_rotation FOV
+
+ie 0 -5 1.5 -0.1 0 0 95
+
+ cam_xpos == 0 so car centered to screen
+ cam_zpos == -5 so camera is behind the car
+ cam_height == 1.5 so camera is above the car
+ x_rotation == -0.1 so camera looks a bit down (at the car)
+
+*/
